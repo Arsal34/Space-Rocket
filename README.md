@@ -1,7 +1,7 @@
 # Space-Rocket
 
 Salient features:
-1) A shooting game developed using c
+1) A shooting game developed using c.
 2) Inspiration taken from the game "1942"
 3) Use wasd keys to navigate the player and f to attack the enemy
 4) Blockages reflect the shooting beems
